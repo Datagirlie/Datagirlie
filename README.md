@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi my name is Princess 👋
+####  *I am a Data Analyst/Engineer**
+
+- 🌱 I give insights and solve problems through my analytical skills which yields productivty and innovativeness. 
+- ⚡ Fun fact: I love books and Data.
+- 📫 I’m currently learning SQL and Python
+- 👯 Let's connect on linkedin: www.linkedin.com/in/ovuobor-princess-498999232
 
 <!--
 **Datagirlie/Datagirlie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
