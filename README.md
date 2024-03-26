@@ -3,7 +3,7 @@
 
 - 🌱 I give insights and solve problems through my analytical skills which yields productivty and innovativeness. 
 - ⚡ Fun fact: I love books and Data.
-- 📫 I’m currently learning SQL and Python
+- 📫 I’m currently learning and Python
 - 👯 Let's connect on linkedin: www.linkedin.com/in/ovuobor-princess-498999232
 
 <!--
