@@ -2,7 +2,7 @@
 ####  *I am a Data Analyst/Engineer**
 
 - 🌱 I give insights and solve problems through my analytical skills which yields productivty and innovativeness. 
-- ⚡ Fun fact: I love books and Data.
+- ⚡ Fun fact: I love books, football and Data.
 - 📫 I’m currently learning Python
 - 👯 Let's connect on linkedin: www.linkedin.com/in/ovuobor-princess-498999232
 
